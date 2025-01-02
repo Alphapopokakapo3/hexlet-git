@@ -1,0 +1,1 @@
+'Privet popa2!' 
